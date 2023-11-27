@@ -1,3 +1,5 @@
+Nothing unique here, folks. I'm practicing construction of a CI/CD pipeline with Docker, Travis CI, and AWS. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
